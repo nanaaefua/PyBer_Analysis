@@ -11,12 +11,14 @@ The overview of this data analytic project is to assist pyber broaden the spread
 Results: Using images from the summary Data Frame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
  
+![image](https://user-images.githubusercontent.com/90292072/188041885-f58b7480-8138-4e2e-a532-acd9f078a6b1.png)
 
 
 
 
 From the new data analysis for the quarter of 2019 the graph validates the in enormous availability of drivers in the urban area but limited in the rural area which could be a great investment for the company to invest in developing the rural areas through access to ride sharing and job creation. Although the population might be little, but the need might be high. Additionally due to it limitation there is an average high cost because of non-competitiveness in the rural areas.
  
+![image](https://user-images.githubusercontent.com/90292072/188041827-30857e33-3e9c-4b07-8a79-b42b9f822063.png)
 
  
 
